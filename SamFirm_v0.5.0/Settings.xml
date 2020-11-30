@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SamFirm>
+  <Model>SM-J727U</Model>
+  <Region>Dominican Republic (CDR)</Region>
+  <Search>True</Search>
+  <AutoDelete>True</AutoDelete>
+  <AutoDecrypt>True</AutoDecrypt>
+  <ZipExtract>True</ZipExtract>
+  <ZipDelete>True</ZipDelete>
+  <Directory>True</Directory>
+</SamFirm>
